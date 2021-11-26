@@ -1,0 +1,9 @@
+---- if_support_connect_redirect Matches (8 in 2 files) ----
+sockGen.c (src\src) line 83 : extern int if_support_connect_redirect(void);
+jrd_get_answer_ip in sockGen.c (src\src) :   if(if_support_connect_redirect()&&conn_redirect_page&&E_WWAN_CONNECTED == g_conn_status)/*if configur connect redirect and network connected*/
+config_redirect_rule in sockGen.c (src\src) :       if(if_support_connect_redirect()&&conn_redirect_page)
+config_redirect_rule in sockGen.c (src\src) :       if(if_support_connect_redirect()&&conn_redirect_page)
+jrd_simple_dns_proc in sockGen.c (src\src) :   if(!jrd_get_gateway_ip(&answer_addr)&&if_support_connect_redirect())
+jrd_simple_dns_proc in sockGen.c (src\src) :     if(if_support_connect_redirect()&&!dn_or_ip && E_WWAN_CONNECTED==g_conn_status)
+jrdInitSimpleDNS in sockGen.c (src\src) :   if(if_support_connect_redirect())
+webs_define.c (src\src) line 484 : int if_support_connect_redirect(void)

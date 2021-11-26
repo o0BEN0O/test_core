@@ -1,0 +1,10 @@
+prefix=@prefix@
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+includedir=@includedir@
+
+Name: webs
+Description: webs
+Version: @VERSION@
+libs: -L${libdir}
+Cflags: -I${includedir}

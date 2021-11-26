@@ -1,0 +1,7 @@
+/home/ben/ben/4g_router/test/rayautoipd.20210104/CMakeFiles/install/strip.dir
+/home/ben/ben/4g_router/test/rayautoipd.20210104/CMakeFiles/install/local.dir
+/home/ben/ben/4g_router/test/rayautoipd.20210104/CMakeFiles/install.dir
+/home/ben/ben/4g_router/test/rayautoipd.20210104/CMakeFiles/list_install_components.dir
+/home/ben/ben/4g_router/test/rayautoipd.20210104/CMakeFiles/rebuild_cache.dir
+/home/ben/ben/4g_router/test/rayautoipd.20210104/CMakeFiles/edit_cache.dir
+/home/ben/ben/4g_router/test/rayautoipd.20210104/CMakeFiles/rayautoipd.dir
